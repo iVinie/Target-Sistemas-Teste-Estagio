@@ -1,0 +1,53 @@
+velocidade média = distância percorrida / tempo
+
+Para o carro:
+
+velocidade média = 110 km/h
+
+Para o caminhão:
+
+velocidade média = 80 km/h
+
+Como os veículos estão se movendo em direções opostas, eles estão se aproximando um do outro. Portanto, a distância entre eles está diminuindo.
+
+Para descobrir em que ponto eles se encontram, podemos usar a seguinte fórmula:
+
+distância percorrida pelo carro + distância percorrida pelo caminhão = distância total entre as cidades
+
+Vamos chamar de "x" a distância percorrida pelo carro até o ponto de encontro e de "100 - x" a distância percorrida pelo caminhão até o ponto de encontro. Note que a distância total entre as cidades é de 100 km.
+
+Usando a fórmula acima, temos:
+
+x + (100 - x) = 100
+
+Simplificando, obtemos:
+
+x = 50
+
+Portanto, o carro percorreu 50 km até o ponto de encontro e o caminhão percorreu 50 km também.
+
+Agora, vamos calcular o tempo que cada um levou para chegar ao ponto de encontro. Para o carro:
+
+tempo = distância / velocidade
+
+tempo = 50 / 110
+
+tempo = 0,45 horas = 27 minutos
+
+Para o caminhão:
+
+tempo = distância / velocidade
+
+tempo = 50 / 80
+
+tempo = 0,625 horas = 37,5 minutos
+
+No entanto, precisamos levar em consideração os dois pedágios como obstáculos. Como o carro tem tag de pedágio, não precisa parar, enquanto o caminhão leva 5 minutos a mais para passar em cada um deles.
+
+Assumindo que o caminhão pare nos dois pedágios, ele levará 10 minutos a mais para chegar ao ponto de encontro. Portanto, o tempo total para o caminhão chegar ao ponto de encontro será:
+
+tempo = 37,5 + 0,1
+
+tempo = 37,6 minutos
+
+Assim, podemos concluir que o carro estará mais próximo da cidade de Ribeirão Preto, já que ele percorreu a distância menor em menos tempo. O caminhão precisou parar nos pedágios e sua velocidade média é menor do que a do carro, fazendo com que ele leve mais tempo para percorrer a mesma distância.
